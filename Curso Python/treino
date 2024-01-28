@@ -1,0 +1,7 @@
+num = int(input("Digite um número: "))
+num2 = int(input("Digite outro número: "))
+soma = num + num2
+if soma > 10:
+  print(soma,"Verdadeiro")
+else:
+  print(soma,"Falso")
