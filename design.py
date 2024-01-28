@@ -27,5 +27,4 @@ for i in range(100000):
     # Alterando velocidade das linhas 
     for j in range(5):
         color("#f73487")
-        goto(0,0)
 done()
